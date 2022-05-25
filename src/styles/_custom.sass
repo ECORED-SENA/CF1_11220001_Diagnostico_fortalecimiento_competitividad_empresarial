@@ -1,0 +1,224 @@
+.banner-principal__row .banner-principal__img
+  position: relative
+  left: 48px
+  top: -50px
+
+.banner-principal__info
+  padding-left: 6rem !important
+
+.cajon.color-primario
+  background-color: #FFF5DB
+
+.cajon.color-primario::before
+  background-color: #FECD4D
+
+.bloque-texto-g.color-secundario
+  background-color: #FECD4D
+
+.bloque-texto-g__texto
+  width: 80%
+
+.bloque-texto-c.color-secundario
+  background-color: #ECD6D1
+
+.bloque-texto-f.color-secundario::before
+  background-color: #FFF5DB
+
+.bloque-texto-f__autor
+  text-align: left
+
+.modal-a__content
+  background-color: #ECD6D1
+
+.modal-a__close-btn
+  background-color: #2C53A0
+  border-radius: 0px
+  i
+    color: #FFFFFF
+
+.tarjeta--piel
+  background-image: url(../assets/curso/tema1/img8.svg)
+  background-repeat: no-repeat
+  background-size: cover
+
+.tarjeta--piel1
+  background-color: #ecd6d1
+  background-image: linear-gradient(0deg, #ecd6d1 0%, #fef3f1 100%)
+
+.tarjeta.color-acento-botones
+  background-color: #ECD6D1
+  h5
+    color: #12263F
+  p
+    color: #12263F
+
+.cajon.color-secundario
+  background-color: #E8E8E8
+
+.cajon.color-secundario::before
+  background-color: #AFAFAF
+
+.slyder-a__tipo-b .slyder-a__btn--sigt
+  background-color: #2C53A0
+
+.slyder-a__tipo-b .slyder-a__btn--atrs
+  background-color: #2C53A0
+
+.linea-tiempo-d__item__number
+  background-color: #2C53A0
+  span
+    color: white
+
+.linea-tiempo-d__item__content
+  background-color: #E9EDF5
+
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #FFF5DB
+  span
+    color: black
+
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected .col .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+  background-color: #FFF5DB
+
+.crd_hover_txt1
+  position: relative  
+  padding: 0 !important
+  overflow: hidden
+  height: 215px
+  &:hover    
+    .crd_hover_txt--font     
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+  .crd_hover_txt--font
+    position: absolute
+    padding: 0rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.2rem ))
+    h4
+      font-size: 17
+      text-align: center
+
+.bg-color1
+  background-image: url(../assets/curso/intro/img1.svg)
+  margin-inline: -3.2rem !important
+  background-repeat: no-repeat
+  background-size: cover
+
+.bg-color2
+  background-image: url(../assets/curso/tema1/img1.svg)
+  margin-inline: -3.2rem !important
+  background-repeat: no-repeat
+  background-size: contain
+
+.bg-color3
+  .bg-img
+    z-index: 2
+    transition: .5s ease
+    opacity: 0.3
+  .bg-txt
+    transition: .5s ease
+    background-color: #2C53A0
+
+.bg-color3:hover
+  .bg-img
+    opacity: 1
+  .bg-txt
+    background-color: #9F321D
+
+.bg-color4
+  background-image: url(../assets/curso/tema1/img3.svg)
+  background-repeat: no-repeat
+  background-size: cover
+
+.bg-color5
+  background-color: #ecd7d2
+  background-image: linear-gradient(90deg, #ecd7d2 0%, #ffffff 100%)
+
+.bg-color6
+  background-image: url(../assets/curso/tema1/img7.svg)
+  margin-inline: -3.2rem !important
+  background-repeat: no-repeat
+  background-size: cover
+
+.bg-color7
+  position: relative
+  width: 100%
+  .bg-img
+    transition: .5s ease
+  .bg-txt
+    transition: .5s ease
+    background-color: #2C53A0
+
+.bg-color7:hover
+  .bg-txt
+    background-color: #9F321D
+  .overlay
+    transform: scale(1)
+
+.bg-color8
+  background-image: url(../assets/curso/tema2/img5.svg)
+  margin-inline: -3.2rem !important
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: center
+
+.bg-color9
+  background-color: #FFF5DB
+
+.bg-color10
+  background-image: url(../assets/curso/tema3/img3.svg)
+  margin-inline: -3.2rem !important
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: center
+
+.bg-color11
+  background-color: #2C53A0
+  height: 50px
+
+.bg-color12
+  background-color: #fff5dba9
+  height: 170px
+
+.txt-deco1
+  font-weight: bold
+  color: #9F321D
+
+.txt-deco2
+  color: #000
+  font-size: 16px
+  position: absolute
+  top: 50%
+  left: 50%
+  transform: translate(-50%, -50%)
+  text-align: left
+  width: 230px
+
+.overlay
+  position: absolute
+  bottom: 0
+  left: 0
+  right: 0
+  border-top-left-radius: 15px
+  border-top-right-radius: 15px
+  background-color: #34a4c98a
+  overflow: hidden
+  width: 100%
+  height: 78%
+  top: 0px
+  transform: scale(0)
+  transition: .3s ease
+
+@media screen and ( max-width: 1200px )
+
+  .bloque-texto-g__texto
+    width: 100%
+
+@media screen and ( max-width: 768px )
+
+  .banner-principal__info
+    padding-left: 1rem !important
+
+  .overlay
+    top: -3px

@@ -1,8 +1,8 @@
-# **sena-base-2021 v5.1.0**
+# **Diseño e implementación diagnóstica**
 
-## **https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/**
+## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF1_11220001_Diagnostico_fortalecimiento_competitividad_empresarial/](https://ecored-sena.github.io/CF1_11220001_Diagnostico_fortalecimiento_competitividad_empresarial/)
 
 #
 

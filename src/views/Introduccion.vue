@@ -3,11 +3,20 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
   
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido.mb-0
       .titulo-principal__numero
         span
           i.fas.fa-info
       h1 Introducción
+    .row.bg-color1
+      .col-12.px-5
+        .row.justify-content-center.my-5
+          .col-lg-10
+            .cajon.color-primario.p-4
+              p.mb-0.text-center El siguiente video describe el sentido del diagnóstico empresarial como sustento para la toma de decisiones y el desarrollo competitivo en las empresas.
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 
