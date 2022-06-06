@@ -3,14 +3,14 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 6
       h1 Líder o consultor de diagnóstico
     .row.bg-color8
       .col-12.px-5
         p.mb-3 En muchas ocasiones, las empresas saben que tienen dificultades para adelantar ejercicios de diagnóstico, porque como conocen los efectos de las variables presumen qué es lo que deben corregir, pero solo actúan de manera parcial, es decir, que únicamente resuelven los aspectos más evidentes, concentrándose en los problemas, por ello la mayoría de la literatura expresa que el diagnóstico sirve para encontrar soluciones a problemas, pero no deja entrever que también permite abordar situaciones de oportunidades, mejoramiento y crecimiento.
-        .row.align-items-center.bg-color13.mb-5
+        .row.align-items-center.bg-color13.mb-5(data-aos="fade-left")
           .col
             p.mb-0 Por otro lado, las empresas experimentan mejores efectos en ocasiones frente a actores expertos externos en metodologías, se sienten más cómodos y perciben un sentido objetivo e imparcial para tratar los temas internos; esta es la razón por la cual muchas empresas facultan a un consultor para coordinar las actividades de diagnóstico empresarial, sobre todo al principio si no cuentan con la experticia suficiente.
           .col-auto
@@ -154,8 +154,8 @@
               .col
                 p.mb-0 #[b Política de competitividad]
         p.mb-5 En Colombia existe desde 2008 la Política Nacional de Competitividad y Productividad, emanada del Consejo Nacional de Política Económica y Social- CONPES 3527, que busca promover quince planes que beneficien con recursos el desarrollo de las empresas y su formalización:
-        .row.mb-3.mb-lg-0
-          .col
+        .row.mb-5
+          .col-lg
             ol.lista-ol--cuadro
               li 
                 .lista-ol--cuadro__vineta
@@ -177,7 +177,7 @@
                 .lista-ol--cuadro__vineta
                   span 5
                 | Ciencia, tecnología e innovación.
-          .col
+          .col-lg
             ol.lista-ol--cuadro
               li 
                 .lista-ol--cuadro__vineta
@@ -223,7 +223,7 @@
                 | Fortalecimiento institucional de la competitividad.
         p.mb-5 La iniciativa del Estado es promover cada uno de estos planes, favoreciendo a las empresas, el desarrollo económico, el comercio, la formalización laboral y en general, contar con recursos desde cada iniciativa de plan, lo cual constituye de entrada una oportunidad para las empresas para su desarrollo, pues contempla los grandes aspectos y factores en que las empresas interactúan y se ven afectadas.
         .row.justify-content-center
-          .col-lg-8.p-3.bg-color5
+          .col-lg-8.p-3.bg-color5(data-aos="fade-left")
             .row
               .col-12.mb-2
                 figure

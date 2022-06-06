@@ -3,14 +3,14 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
-    .titulo-principal.color-acento-contenido.mb-0
+    .titulo-principal.color-acento-contenido.mb-0(data-aos="flip-up")
       .titulo-principal__numero
         span 5
       h1 Levantamiento de información y participación diagnóstica
     .row.bg-color1
       .col-12.px-5
         .row.justify-content-center.mb-5
-          .col-lg-10
+          .col-lg-10(data-aos="fade-left")
             .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-4.mt-4
               .bloque-texto-g__img(
                 :style="{'background-image': `url(${require('@/assets/curso/tema5/img1.png')})`}"
@@ -21,7 +21,7 @@
                 br
                 p.mb-0 Se sugiere consultar en la sección material complementario el anexo #[b Instrumento de cuestionario para el diagnóstico organizacional (W-R&M)], que lo orientará en el diseño de los instrumentos.
         p.text-center.mb-5 Los pasos para realizar el levantamiento de la información y la participación diagnóstica son:
-        .row.justify-content-evenly.mb-5
+        .row.justify-content-evenly.mb-5(data-aos="fade-down")
           .col-9.col-lg-4.mb-5.mb-lg-0
             .tarjeta-avatar
               img(src='@/assets/curso/tema5/img1.svg' alt='AvatarTop')
@@ -38,7 +38,7 @@
                   p.text-center Por medio de observación.
         p.text-center.mb-5 Luego se continúa con el:
         .row.justify-content-center
-          .col-lg-8.p-3.bg-color5
+          .col-lg-8.p-3.bg-color5(data-aos="fade-left")
             .row
               .col-12.mb-2
                 figure

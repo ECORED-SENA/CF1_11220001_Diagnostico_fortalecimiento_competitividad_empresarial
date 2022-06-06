@@ -3,7 +3,7 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
       h1 Diagnóstico empresarial
@@ -13,7 +13,7 @@
         figure.mb-5
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        .row.justify-content-center.mb-5
+        .row.justify-content-center.mb-5(data-aos="fade-left")
           .col-lg-10
             .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
               .bloque-texto-g__img(
@@ -23,14 +23,14 @@
                 p.mb-0 Es así como en el ejercicio empresarial es muy importante contar con información fiable y disponible para la toma de decisiones; cada vez se requiere más información contextualizada y no aislada, lo que es normal dado que las empresas tienen un comportamiento sistémico, sus decisiones son integradas y sistémicas, por lo cual el diagnóstico empresarial se constituye en una herramienta que faculta gerencial y colectivamente a quienes trabajan en las empresas.
         p Un diagnóstico empresarial es un método de investigación que las organizaciones realizan para determinar el estado de competitividad y condiciones en que se opera en la actualidad. 
         p.mb-5 Se puede decir que es la identificación o determinación del estado actual y real de la organización, el marco de referencia de operación, que sirve para tomar decisiones frente a logros esperados o metas proyectadas.
-        .row.justify-content-center.mb-5
+        .row.justify-content-center.mb-5(data-aos="fade-right")
           .col-lg-8
             .bloque-texto-c.color-secundario.p-4
               i.fas.fa-quote-right
               h4.my-2 Hoy por hoy es una herramienta de gestión que permite identificar las debilidades y fortalezas 
               span - ATA, 2021
     p.text-center.mb-5 El proceso incluye la evaluación de:
-    .row.justify-content-around.mb-5
+    .row.justify-content-around.mb-5(data-aos="fade-left")
       .col-9.col-sm-6.col-md-4.col-xl-2
         .row.bg-color3.p-1.h-100
           .col-12.px-0.bg-img
@@ -77,7 +77,7 @@
           .col
             p.mb-0 #[b Importancia del diagnóstico empresarial]
     .row.justify-content-center
-      .col-lg-10.mb-5
+      .col-lg-10.mb-5(data-aos="fade-left")
         .bloque-texto-f.color-secundario.pt-4.px-5
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
@@ -165,7 +165,7 @@
                 figure
                   img(src='@/assets/curso/tema1/img2.svg', style="width: 20px").m-auto
               .col
-                p.mb-0 #[b Proceso para el diagnóstico empresarial]
+                p.mb-0 #[b Características del diagnóstico para la competitividad]
         p.mb-5 Estas son:
         ImagenInfografica.color-secundario.mb-5
           template(v-slot:imagen)
@@ -203,7 +203,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-5
           p.mb-0 #[b Figura 1]. Proceso del diagnóstico empresarial.
-        figure
+        figure(data-aos="fade-right")
           img(src='@/assets/curso/tema1/img10.svg', style="width: 950px").m-auto
   
 </template>

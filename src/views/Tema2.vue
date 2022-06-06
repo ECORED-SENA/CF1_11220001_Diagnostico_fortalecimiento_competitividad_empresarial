@@ -3,12 +3,12 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
       h1 Aspectos o factores competitivos a medir
     p.mb-5 La operación empresarial se da en un contexto de múltiples variables y aspectos que la afectan permanentemente, la cual ha aumentado su nivel de complejidad en los últimos años, debido a:
-    .row.justify-content-center.align-items-end.mb-5
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade-left")
       .col-lg-3.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/tema2/img1.svg', style="width: 350px").m-auto
@@ -32,7 +32,7 @@
             p.mb-0 Efectos de la ruptura por la globalización e internacionalización para la actuación empresarial.
     .row.justify-content-center
       .col-lg-10.mb-5
-        .bloque-texto-f.color-secundario.pt-4.px-5.mb-5.mt-4
+        .bloque-texto-f.color-secundario.pt-4.px-5.mb-5.mt-4(data-aos="fade-right")
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
             i.fas.fa-quote-right
@@ -43,7 +43,7 @@
             .bloque-texto-f__avatar__img
               img(src='@/assets/curso/tema2/img1.png')
         p.mb-5 Por estas razones, realizar un diagnóstico empresarial con fines de fortalecimiento y competitividad requiere de la clasificación de variables, que agrupadas conforman lo que se denominan factores y aspectos a evaluar. Para hacer este ejercicio se parte del análisis de variables, identificando cuáles son controlables y cuáles no por parte de la empresa, determinando si afectan:
-        .row
+        .row(data-aos="fade-left")
           .col-lg-6.mb-4.mb-lg-0
             .tarjeta-avatar-b
               .tarjeta-avatar-b__img
@@ -162,7 +162,7 @@
           h2 2.2 Factores y variables exógenos
         p Lo exógeno corresponde a lo externo, es decir, al conjunto de variables o aspectos a evaluar donde su comportamiento no depende de las actuaciones de la empresa, por tanto, no están bajo su control.
         p.mb-5 Las múltiples variables se agrupan según su naturaleza en factores, determinando un escenario de macroentorno y microentorno, permitiendo identificar cambios del escenario empresarial o del sector o industria y en donde se pueden identificar posibles oportunidades de crecimiento o amenazas que pueden representar dichas variables no controlables.
-        figure.mb-5
+        figure.mb-5(data-aos="fade-left")
           img(src='@/assets/curso/tema2/img4.svg', style="width: 950px").m-auto
         p.text-center.mb-5 Los factores exógenos se dividen en:
         .row.justify-content-center.mb-5
@@ -205,7 +205,7 @@
                   p Contempla cómo es el censo de composición de la oferta de la zona de la empresa, si existe rivalidad en el sector para la venta, tasa de crecimiento y presencia de nuevos actores, etc.
         p.mb-5 El ejercicio del diagnóstico busca identificar los efectos y en qué medida cada uno de estos factores del entorno podrían impactar positiva o negativamente a la empresa, denotando oportunidades a las que puede optar para su desarrollo, y cuáles son las amenazas en las que debe prepararse para minimizar el impacto y que no le afecte, sino que tenga cubierto dicho riesgo.
         .row.justify-content-center.my-5
-          .col-lg-8
+          .col-lg-8(data-aos="fade-right")
             .cajon.color-primario.p-4
               p.mb-0.text-center En el siguiente video se hace una explicación más profunda de los factores exógenos:
         figure

@@ -3,7 +3,7 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 4
       h1 Métodos y técnicas diagnósticas
@@ -56,15 +56,15 @@
       .col-12.px-5
         p.mb-5 Sin embargo, su finalidad y alcance denotan un sentido de evaluación de los aspectos funcionales y culturales de la empresa, por ende, se maneja información de carácter:
         .row.justify-content-center.mb-5
-          .col-lg-10
+          .col-lg-10(data-aos="fade-left")
             figure
               img(src='@/assets/curso/tema4/img1.svg', style="width: 950px").m-auto
         .row.justify-content-center.mb-5
-          .col-lg-6
+          .col-lg-6(data-aos="fade-right")
             .cajon.color-primario.p-4
               p.text-center.mb-0 Este levantamiento de información se puede realizar de manera:
         .row.justify-content-center.mb-5
-          .col-lg-10
+          .col-lg-10(data-aos="fade-up")
             PasosA.color-primario.mb-4(tipo="n")
               .row.align-items-center
                 .col-lg-6.mb-4.mb-lg-0
@@ -150,15 +150,15 @@
         p Según Hernández Sampieri en Metodología de la investigación, los instrumentos de recolección de datos más usados son:
     .titulo-sexto.color-acento-contenido.mb-5
       p.mb-0 #[b Figura 4]. Técnicas de captura de información.
-    figure.mb-5
+    figure.mb-5(data-aos="fade-right")
       img(src='@/assets/curso/tema4/img5.svg').m-auto
       figcaption Nota. Tomado de Hernández Sampieri (s.f.). Metodología de la investigación.
     p.mb-5 Tanto las entrevistas como las encuestas manejan formularios para realizar las preguntas, que dependiendo de la naturaleza de la información pueden ser de pregunta cerrada o abierta cuando se busca información descriptiva.
-    .cajon.color-acento-botones.p-4.mb-5
+    .cajon.color-acento-botones.p-4.mb-5(data-aos="fade-left")
       p.mb-0.text-center El moderador de estas técnicas debe promover y facilitar que se responda con precisión a preguntas tipo: qué, cómo, dónde, etc., las cuales deben estar orientadas a obtener datos de medidas cuantitativas y hechos objetivos, hábitos y opiniones.
     p.mb-5 En relación con el tamaño de la muestra a utilizar, dependiendo el tamaño de la empresa y del número de empleados, será necesario desarrollar y aplicar técnicas de muestreo como:
     .row.justify-content-center
-      .col-lg-10
+      .col-lg-10(data-aos="fade-right")
         .row
           .col-md-6.col-lg.tarjeta--tabla.p-4
             .row.justify-content-center.mb-4

@@ -9,6 +9,12 @@
           .col-lg-12
             figure.my-5
               img(src="@/assets/curso/sintesis.svg", alt="alt")
+          .col-auto
+            a.anexo.mb-4(:href="obtenerLink('downloads/Anexo4.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p #[b Anexo.] Síntesis
 
 </template>
 

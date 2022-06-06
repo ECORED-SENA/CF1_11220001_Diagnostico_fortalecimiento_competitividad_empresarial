@@ -1,7 +1,54 @@
+.banner-principal__row
+  height: 520px !important
+  
+.banner-principal__img
+  background-image: url("../assets/curso/portada/float2.svg"), url("../assets/curso/portada/float1.svg"), url("../assets/curso/portada/banner-princiapal.png")
+  align-self: stretch
+  background-repeat: no-repeat, no-repeat, no-repeat
+  background-position: 10% 85%, 80% 10%, 0% 0%
+  background-size: 5%, 10%, 90%
+  animation: Flitp 6s ease infinite
+  img
+    display: none !important
+
+@keyframes Flitp
+  0%
+    background-image: url("../assets/curso/portada/float2.svg"), url("../assets/curso/portada/float1.svg"), url("../assets/curso/portada/banner-princiapal.png")
+  25%
+    background-image: url("../assets/curso/portada/float2.svg"), url("../assets/curso/portada/float1.svg"), url("../assets/curso/portada/banner-princiapal.png")
+  50%
+    background-image: url("../assets/curso/portada/float2.svg"), url("../assets/curso/portada/float1.svg"), url("../assets/curso/portada/banner-princiapal.png")
+    background-position: 15% 85%, 80% 16%, 0% 0%
+  75%
+    background-image: url("../assets/curso/portada/float2.svg"), url("../assets/curso/portada/float1.svg"), url("../assets/curso/portada/banner-princiapal.png")
+  100%
+    background-image: url("../assets/curso/portada/float2.svg"), url("../assets/curso/portada/float1.svg"), url("../assets/curso/portada/banner-princiapal.png")
+
+.banner-principal__info
+  background-image: url("../assets/curso/portada/float2.svg"), url("../assets/curso/portada/float3.svg")
+  align-self: stretch
+  background-repeat: no-repeat
+  background-position: 6% 25%, 2% 96%
+  background-size: 5%, 6%
+  animation: Flitp1 6s ease infinite
+
+@keyframes Flitp1
+  0%
+    background-image: url("../assets/curso/portada/float2.svg"), url("../assets/curso/portada/float3.svg")
+  25%
+    background-image: url("../assets/curso/portada/float2.svg"), url("../assets/curso/portada/float3.svg")
+  50%
+    background-image: url("../assets/curso/portada/float2.svg"), url("../assets/curso/portada/float3.svg")
+    background-position: 10% 25%, 10% 96%
+  75%
+    background-image: url("../assets/curso/portada/float2.svg"), url("../assets/curso/portada/float3.svg")
+  100%
+    background-image: url("../assets/curso/portada/float2.svg"), url("../assets/curso/portada/float3.svg")
+  
 .banner-principal__row .banner-principal__img
   position: relative
-  left: 48px
-  top: -50px
+  left: 110px
+  top: 0px
 
 .banner-principal__info
   padding-left: 6rem !important
@@ -37,7 +84,10 @@
     color: #FFFFFF
 
 .tarjeta--piel
-  background-color: #E9EDF5
+  background-image: url(../assets/curso/tema1/img8.svg)
+  background-color: white
+  background-repeat: no-repeat
+  background-size: cover
 
 .tarjeta--piel1
   background-color: #ecd6d1
@@ -89,6 +139,7 @@
       transform: translateY(0)
   .crd_hover_txt--font
     position: absolute
+    width: 100%
     padding: 0rem
     bottom: 0    
     transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
@@ -227,7 +278,7 @@
   height: 50px
 
 .bg-color12
-  background-color: #fff5dba9
+  background-color: #fff5dbd1
   height: 170px
 
 .bg-color13
@@ -279,10 +330,18 @@
   transform: scale(0)
   transition: .3s ease
 
+@media screen and ( max-width: 1400px )
+  
+  .banner-principal__row .banner-principal__img
+    left: 48px
+
 @media screen and ( max-width: 1200px )
 
   .bloque-texto-g__texto
     width: 100%
+
+  .banner-principal__row .banner-principal__img
+    left: 40px
 
 @media screen and ( max-width: 768px )
 
