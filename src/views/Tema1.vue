@@ -58,7 +58,7 @@
             figure
               img(src='@/assets/curso/tema1/img5.png')
           .col-12.p-2.bg-txt
-            p.mb-0.text-center.text-white #[b Marketing]
+            p.mb-0.text-center.text-white #[b #[i Marketing]]
       .col-9.col-sm-6.col-md-4.col-xl-2
         .row.bg-color3.p-1.h-100
           .col-12.px-0.bg-img
@@ -76,18 +76,7 @@
               img(src='@/assets/curso/tema1/img2.svg', style="width: 20px").m-auto
           .col
             p.mb-0 #[b Importancia del diagnóstico empresarial]
-    .row.justify-content-center
-      .col-lg-10.mb-5(data-aos="fade-left")
-        .bloque-texto-f.color-secundario.pt-4.px-5
-          .bloque-texto-f__comillas
-            i.fas.fa-quote-left
-            i.fas.fa-quote-right
-          p.text-regular.bloque-texto-f__texto El objetivo principal de un diagnóstico empresarial es sensibilizar sobre las necesidades de cambio y mejora que la empresa pueda tener. En muchas ocasiones el éxito comercial y la generación de beneficios se confunden con competitividad, lo que puede cambiar en mediano y largo plazo dado que no evolucionan los procesos, la innovación de productos y el servicio, entre otros aspectos, convirtiendo la empresa en un ente reactivo ante las adversidades, y no en un ente proactivo que esté a la vanguardia, es así como el diagnóstico empresarial adquiere importancia en las empresas, porque permite hacer un ejercicio de sensibilización sobre la necesidad de cambio y mejora de estas.
-          .bloque-texto-f__autor.mb-3
-            h4.mb-0 -Laurence, 2014.
-          .bloque-texto-f__avatar
-            .bloque-texto-f__avatar__img
-              img(src='@/assets/curso/tema1/img7.png')
+    .row.mb-5
       .col-lg-10.mb-5
         p El diagnóstico permite la autorreflexión, cohesión y alineación institucional, reactivando la motivación y satisfacción de los empleados y participantes, debido a que evidencia un sentido de aporte para la identificación de problemas y propuestas de soluciones, la construcción de nuevos valores y capacidades productivas que son el futuro de la empresa.
       .col-lg-8.p-3.bg-color5
@@ -116,7 +105,6 @@
           p.mb-0 El objetivo principal de un diagnóstico empresarial es sensibilizar sobre las necesidades de cambio y mejora que la empresa pueda tener. En muchas ocasiones el éxito comercial y la generación de beneficios se confunden con competitividad, lo que puede cambiar en mediano y largo plazo dado que no evolucionan los procesos, la innovación de productos y el servicio, entre otros aspectos, convirtiendo la empresa en un ente reactivo ante las adversidades, y no en un ente proactivo que esté a la vanguardia, es así como el diagnóstico empresarial adquiere importancia en las empresas, porque permite hacer un ejercicio de sensibilización sobre la necesidad de cambio y mejora de estas (Laurence, 2014).
     .row.bg-color6
       .col-12.px-5
-        p.my-5 Debe tener como punto de partida que el gerente de la empresa sea consciente de la necesidad de dicho estudio y asuma con responsabilidad el compromiso que conlleva, de él depende la aprobación para que la información requerida sea suministrada; con el fin de aportar para la solución y obtención de nuevas prácticas favorables para la empresa. Cabe destacar, que estos flujos de información y de estudios son confidenciales y que no acarrean en problema alguno por su manejo al interior de la empresa.
         .row.mb-5
           .col-lg-8.p-3.bg-color4
             .row.align-items-center.mt-2

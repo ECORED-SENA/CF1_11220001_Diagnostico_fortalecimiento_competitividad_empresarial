@@ -89,13 +89,6 @@
       SlyderA(tipo="b")
         .row.align-items-center.justify-content-center
           .col-lg-6.mb-4.mb-lg-0
-            h4 Productos y servicios
-            p.mb-0 Analiza el portafolio, las categorías, gama de productos, la rotación, productos más fuertes, la estacionalidad, la relación calidad/precio, los factores de diferenciación, promoción y otras consideraciones adicionales en función de la empresa, como por ejemplo, la asistencia técnica, garantías, el desarrollo de nuevos productos, la obsolescencia, vida útil y su cumplimiento, entre otros.
-          .col-lg-5
-            figure
-              img(src='@/assets/curso/tema2/img4.png', style="width: 350px").m-auto
-        .row.align-items-center.justify-content-center
-          .col-lg-6.mb-4.mb-lg-0
             h4 Gestión administrativa estratégica
             p.mb-0 Busca identificar los avances y dificultades frente al logro y cumplimiento de los preceptos de misión, visión, de los objetivos, principios y valores empresariales.
           .col-lg-5
@@ -124,8 +117,8 @@
               img(src='@/assets/curso/tema2/img8.png', style="width: 350px").m-auto
         .row.align-items-center.justify-content-center
           .col-lg-6.mb-4.mb-lg-0
-            h4 Marketing y comunicación
-            p.mb-0 Analiza todos aquellos factores referentes al marketing mix y a la comunicación, tanto la realizada por los medios tradicionales, como la comunicación online a través de banners, redes sociales, blogs, portales, entre otros.
+            h4 #[i Marketing] y comunicación
+            p.mb-0 Analiza todos aquellos factores referentes al #[i marketing mix] y a la comunicación, tanto la realizada por los medios tradicionales, como la comunicación #[i online] a través de #[i banners], redes sociales, #[i blogs], portales, entre otros.
           .col-lg-5
             figure
               img(src='@/assets/curso/tema2/img9.png', style="width: 350px").m-auto
@@ -146,7 +139,7 @@
         .row.align-items-center.justify-content-center
           .col-lg-6.mb-4.mb-lg-0
             h4 Tecnología disponible
-            p.mb-0 Evalúa la posición frente a cambios, si se cuenta con recursos actualizados, software integrado para crecer, plan de renovación, sustitución y mantenimientos.
+            p.mb-0 Evalúa la posición frente a cambios, si se cuenta con recursos actualizados, #[i software] integrado para crecer, plan de renovación, sustitución y mantenimientos.
           .col-lg-5
             figure
               img(src='@/assets/curso/tema2/img12.png', style="width: 350px").m-auto

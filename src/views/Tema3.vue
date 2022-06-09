@@ -17,7 +17,7 @@
           .col
             p Los procesos de diagnóstico se promueven desde los niveles estratégicos-directivos hasta los operativos, organizando líderes funcionales de los procesos de información, en un ambiente de armonía y de preparación para la reflexión, no de supervisión o de ajuste.
             p.mb-0 Si la empresa tiene una estructura funcional o de procesos bien definida, se compone un equipo capaz de recopilar información de cada una de estas instancias, en conformidad con la naturaleza de la información, con el fin de que sea compartida y analizada más adelante por todo el equipo, pero son ellos, por ser las fuentes primarias de dicha información, los encargados de prepararla.
-        p.mb-5 Cada área funcional, compras, marketing, finanzas, entre otras, fijará un coordinador para llevar a cabo la canalización de la información de manera oportuna y guardando el principio de fiabilidad. Este ejercicio permitirá que las personas se orienten y dispongan de la información al momento de la captura y no se caiga en ejercicios especulativos, ver figura.
+        p.mb-5 Cada área funcional, compras, #[i marketing], finanzas, entre otras, fijará un coordinador para llevar a cabo la canalización de la información de manera oportuna y guardando el principio de fiabilidad. Este ejercicio permitirá que las personas se orienten y dispongan de la información al momento de la captura y no se caiga en ejercicios especulativos, ver figura.
         .row.justify-content-center
           .col-lg-10(data-aos="fade-right")
             .titulo-sexto.color-acento-contenido.mb-5

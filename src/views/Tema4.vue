@@ -50,7 +50,7 @@
             .row.bg-color12
               .col
                 .p-2
-                  p Clasificar la información  como aspectos conducentes al éxto y al desmejoramiento, ya sean internos o externos.
+                  p Clasificar la información  como aspectos conducentes al éxito y al desmejoramiento, ya sean internos o externos.
                   p.mb-0 Establecer sugerencias o posibles orientaciones a seguir.
     .row.bg-color8
       .col-12.px-5
