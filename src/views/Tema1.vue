@@ -12,7 +12,7 @@
         p.mb-5 ¿Para qué se realiza un diagnóstico empresarial? El siguiente video presenta un preámbulo a la temática y muestra por qué en las empresas lo utilizan.
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/2pE1U0Dj6CY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         .row.justify-content-center.mb-5(data-aos="fade-left")
           .col-lg-10
             .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
