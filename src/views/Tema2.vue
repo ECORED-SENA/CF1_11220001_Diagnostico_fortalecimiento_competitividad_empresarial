@@ -203,7 +203,7 @@
               p.mb-0.text-center En el siguiente video se hace una explicación más profunda de los factores exógenos:
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/iB4UGfYV1HU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/MUZ89EBhk9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 
