@@ -1135,22 +1135,6 @@
   </colorschemes>
   <string_tables>
     <string_table name="npnxnanbnsnfns00000000001">
-      <string id="acc_modern_video_captions">~ѵide~ø ca~þţio~ñš</string>
-      <string id="acc_modern_video_pause">~þaüš~e ѵi~deø</string>
-      <string id="acc_modern_video_pip">~Picţ~üře-~iñ-P~ictu~re</string>
-      <string id="acc_modern_video_play">~þlaý~ ѵid~eø</string>
-      <string id="modern_video_playback_settings">~þlaý~bacķ~ šeţ~tiñg~s</string>
-      <string id="acc_modern_video_playback_speed">~Plaý~bacķ~ šþe~ed</string>
-      <string id="acc_modern_video_volume">~ѵide~ø vo~lüӎe</string>
-      <string id="acc_modern_video_mute">~ӎüţe~ ѵid~eø</string>
-      <string id="acc_modern_video_fullscreen">~füll~šcře~eñ</string>
-      <string id="modern_video_captions_label">~caþţ~iøñš</string>
-      <string id="modern_video_captions_off">~øff</string>
-      <string id="modern_video_captions_on">~øñ</string>
-      <string id="modern_video_normal_speed">~Nøřӎ~al</string>
-      <string id="modern_video_settings_close">~cløš~e ѵi~deo ~seţt~iñgs</string>
-      <string id="modern_video_playback_speed_title">~Plaý~bacķ~ šþe~ed</string>
-      <string id="acc_modern_video_settings">~ѵide~ø še~ţtiñ~gs</string>
       <string id="more_info">Más información</string>
       <string id="bio">Biografía</string>
       <string id="enable_keyboardshortcuts">Activar atajos del teclado</string>
@@ -1190,6 +1174,22 @@
       <string id="keyboardshortcuts_lower">Atajos de teclado</string>
       <string id="zoom_to_fit">Habilitar zoom del navegador</string>
       <string id="accessible_text">Texto accesible</string>
+      <string id="modern_video_captions_on">~øñ</string>
+      <string id="modern_video_captions_off">~øff</string>
+      <string id="modern_video_settings_close">~cløš~e ѵi~deo ~seţt~iñgs</string>
+      <string id="modern_video_playback_settings">~þlaý~bacķ~ šeţ~tiñg~s</string>
+      <string id="acc_modern_video_volume">~ѵide~ø vo~lüӎe</string>
+      <string id="acc_modern_video_fullscreen">~füll~šcře~eñ</string>
+      <string id="modern_video_normal_speed">~Nøřӎ~al</string>
+      <string id="acc_modern_video_playback_speed">~Plaý~bacķ~ šþe~ed</string>
+      <string id="modern_video_playback_speed_title">~Plaý~bacķ~ šþe~ed</string>
+      <string id="modern_video_captions_label">~caþţ~iøñš</string>
+      <string id="acc_modern_video_settings">~ѵide~ø še~ţtiñ~gs</string>
+      <string id="acc_modern_video_captions">~ѵide~ø ca~þţio~ñš</string>
+      <string id="acc_modern_video_pip">~Picţ~üře-~iñ-P~ictu~re</string>
+      <string id="acc_modern_video_pause">~þaüš~e ѵi~deø</string>
+      <string id="acc_modern_video_play">~þlaý~ ѵid~eø</string>
+      <string id="acc_modern_video_mute">~ӎüţe~ ѵid~eø</string>
       <string id="acc_definition">definición</string>
       <string id="definition">Definición</string>
       <string id="search_results">Resultados de la búsqueda</string>
@@ -1295,7 +1295,7 @@
           <links>
             <slidelink slideid="_player.6g8RcXIVtvA.6GrUdUpuerp" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.6g8RcXIVtvA.5pMSQdNTnb5" displaytext="El gerente de una cadena de tiendas de abarrotes pide al director de cada una que informe sobre el censo de oferta del sector, esto constituye:" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6BpZ7VPEKIM" displaytext="Un crédito de la banca mundial para Colombia hace que la perspectiva de algunos analistas económicos diga que la T.R.M. caerá a $3.7560, lo que constituye para los exportadores:" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6BpZ7VPEKIM" displaytext="Un crédito de la banca mundial para Colombia hace que la perspectiva de algunos analistas económicos diga que la T.R.M. caerá a $3.756, lo que constituye para los exportadores:" expand="false" type="slide" />
             <slidelink slideid="_player.6g8RcXIVtvA.5dbTNEJ55u1" displaytext="Los factores críticos positivos más relevantes o de impacto para la empresa, que no se controlan representan en diagnóstico:" expand="false" type="slide" />
             <slidelink slideid="_player.6g8RcXIVtvA.5gTwPK6AEJb" displaytext="El equipo de ventas piensa lograr en el siguiente trimestre una cuota superior al 10% del promedio alcanzado este trimestre en un segmento de mercado poco trabajado:" expand="false" type="slide" />
             <slidelink slideid="_player.6g8RcXIVtvA.64ChZtVSxi8" displaytext="La entrevista personal para adelantar diagnósticos no requiere de formularios." expand="false" type="slide" />
