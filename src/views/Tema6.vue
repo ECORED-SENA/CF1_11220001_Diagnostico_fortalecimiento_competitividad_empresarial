@@ -176,7 +176,7 @@
               li 
                 .lista-ol--cuadro__vineta
                   span 5
-                | Ciencia, tecnología e innovación.
+                | Formalización laboral.
           .col-lg
             ol.lista-ol--cuadro
               li 

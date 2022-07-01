@@ -105,6 +105,9 @@
           .col-lg-6.mb-4.mb-lg-0
             h4 Mercado de clientes
             p.mb-0 Estudia el ámbito geográfico, la segmentación, el posicionamiento, la participación, el modelo de negocio, los criterios de compra y factores de decisión, el censo de oferta o de competidores directos, clientes existentes, nuevos clientes potenciales, clientes insatisfechos, rotación de clientes, etc., (ver anexo Clasificación de clientes).
+            a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/Anexo1.pdf')" target="_blank" type="application/pdf")
+              span Descargar
+              i.fas.fa-file-download
           .col-lg-5
             figure
               img(src='@/assets/curso/tema2/img7.png', style="width: 350px").m-auto

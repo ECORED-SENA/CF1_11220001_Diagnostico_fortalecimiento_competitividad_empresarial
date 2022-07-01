@@ -10,7 +10,7 @@
             img(src="@/assets/template/seleccion-multiple.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Comprensión de temáticas del componente 01
+          h2 Comprensión de temáticas del componente
         p.mb-4 #[b Objetivo]. Sensibilizar al aprendiz en su aprendizaje para el diagnóstico empresarial.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
