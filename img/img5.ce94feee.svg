@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1328.393" height="1206.675" viewBox="0 0 1328.393 1206.675">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f6f6f6"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_150838" data-name="Grupo 150838" transform="translate(-135.607 -3307.542)">
+    <g id="Grupo_150829" data-name="Grupo 150829" transform="translate(0 -55.289)">
+      <path id="Sustracción_18" data-name="Sustracción 18" d="M1891.98,11931.2h0l-7.352-7.623,134.256-117.629-126.9,125.253h0Z" transform="translate(-1533 -8337.168)" fill="#f6f6f6"/>
+      <path id="Trazado_206842" data-name="Trazado 206842" d="M-1515.943-7978-1089-7551.058l-447.765,447.765v-846.478Z" transform="translate(1672.765 11509.408)" fill="url(#linear-gradient)"/>
+      <path id="Trazado_206843" data-name="Trazado 206843" d="M-1533-7881.8l223.153-223.987L-1533-8337.169Z" transform="translate(1669 11700)" fill="#fee6a5"/>
+      <path id="Trazado_206844" data-name="Trazado 206844" d="M-1309.847-8106.149l-223.546,186.927v36.886Z" transform="translate(1669 11700)" fill="#ffdc81"/>
+    </g>
+    <g id="Grupo_150830" data-name="Grupo 150830" transform="translate(1599.607 7877.048) rotate(180)">
+      <path id="Sustracción_18-2" data-name="Sustracción 18" d="M1891.98,11931.2h0l-7.352-7.623,134.256-117.629-126.9,125.253h0Z" transform="translate(-1533 -8337.168)" fill="#f6f6f6"/>
+      <path id="Trazado_206842-2" data-name="Trazado 206842" d="M-1515.943-7978-1089-7551.058l-447.765,447.765v-846.478Z" transform="translate(1672.765 11509.408)" fill="url(#linear-gradient)"/>
+      <path id="Trazado_206843-2" data-name="Trazado 206843" d="M-1533-7881.8l223.153-223.987L-1533-8337.169Z" transform="translate(1668.612 11700)" fill="#fee6a5"/>
+      <path id="Trazado_206844-2" data-name="Trazado 206844" d="M-1309.847-8106.149l-223.546,186.927v36.886Z" transform="translate(1669 11700)" fill="#ffdc81"/>
+    </g>
+  </g>
+</svg>

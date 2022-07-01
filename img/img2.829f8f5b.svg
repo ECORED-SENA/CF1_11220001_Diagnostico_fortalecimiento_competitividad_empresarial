@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96.373" height="96.373" viewBox="0 0 96.373 96.373">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_207596" data-name="Trazado 207596" d="M238.165,57.528a35.464,35.464,0,1,0,35.463-35.463,35.463,35.463,0,0,0-35.463,35.463" transform="translate(-238.165 -22.065)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-1.795" y1="1.188" x2="-1.787" y2="1.188" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ededed"/>
+      <stop offset="1" stop-color="#fefefe"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-1.76" y1="1.178" x2="-1.753" y2="1.178" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#ededed"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_150986" data-name="Grupo 150986" transform="translate(1820.942 10651.843)">
+    <path id="Trazado_207594" data-name="Trazado 207594" d="M264.287,94.373h0A46.187,46.187,0,1,0,218.1,48.187a46.187,46.187,0,0,0,46.187,46.187" transform="translate(-2037.042 -10651.843)" fill="#fecd4d"/>
+    <path id="Trazado_207595" data-name="Trazado 207595" d="M264.287,94.373h0A46.187,46.187,0,1,0,218.1,48.187,46.187,46.187,0,0,0,264.287,94.373Z" transform="translate(-2037.042 -10651.843)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+    <g id="Grupo_150985" data-name="Grupo 150985" transform="translate(-1808.219 -10639.12)">
+      <g id="Grupo_150984" data-name="Grupo 150984" clip-path="url(#clip-path)">
+        <rect id="Rectángulo_41772" data-name="Rectángulo 41772" width="70.927" height="70.927" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <path id="Trazado_207597" data-name="Trazado 207597" d="M273.163,92.526v-.534a34.929,34.929,0,1,0-34.929-34.929,34.974,34.974,0,0,0,34.929,34.929v1.069a36,36,0,1,1,36-36,36,36,0,0,1-36,36Z" transform="translate(-2045.918 -10660.72)" fill="url(#linear-gradient-2)"/>
+    <path id="Trazado_207598" data-name="Trazado 207598" d="M275.521,80.3l-8.4-8.4-5.26,5.26,13.665,13.665,31.94-31.939-5.26-5.261Z" transform="translate(-2057.414 -10675.876)" fill="#fecd4d"/>
+  </g>
+</svg>

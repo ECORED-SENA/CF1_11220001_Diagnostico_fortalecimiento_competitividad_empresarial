@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="610" height="53.848" viewBox="0 0 610 53.848">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.028" y1="0.622" x2="-0.031" y2="0.668" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fecd4e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.435" y1="0.914" x2="0.289" y2="0.579" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f5c343"/>
+      <stop offset="1" stop-color="#ad800d"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_151985" data-name="Grupo 151985" transform="translate(-190 -2110)">
+    <rect id="Rectángulo_33853" data-name="Rectángulo 33853" width="610" height="45" transform="translate(190 2118.813)" fill="url(#linear-gradient)"/>
+    <g id="Grupo_80224" data-name="Grupo 80224" transform="translate(10 -571.058)">
+      <path id="Trazado_190841" data-name="Trazado 190841" d="M-7072.272-8233.719l30.645-9.632L-7004-8189.5h-105Z" transform="translate(7289 10924.408)" opacity="0.5" fill="url(#linear-gradient-2)"/>
+      <path id="Trazado_190842" data-name="Trazado 190842" d="M-7109-8191.5l67.3-53.848H-7109Z" transform="translate(7289 10926.41)" fill="#9f321d"/>
+    </g>
+  </g>
+</svg>
